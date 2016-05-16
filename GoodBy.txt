@@ -1,0 +1,2 @@
+goodby world
+world goodby
