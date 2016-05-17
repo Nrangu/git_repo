@@ -1,7 +1,7 @@
-new txxxxx
-new txxxxxывап
-ветка мастер
-новая ветка  мастер
+new txxxxx;
+new txxxxxывап;
+ветка мастер;
+новая ветка  мастер;
 
-новая feature/advanced
-еще одна новая строка
+новая feature/advanced;
+еще одна новая строка;
